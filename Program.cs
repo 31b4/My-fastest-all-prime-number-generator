@@ -1,10 +1,10 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace All_Prime_Number{
+namespace All_Prime_Number{//visible after 1 billion
     class Program {
         static void Main(string[] args) {
             Console.WriteLine("\t \t All Prime Number: \n");
